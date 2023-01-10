@@ -1,0 +1,1 @@
+#Here's all the information about how to create an EC2 instance from Terraform
